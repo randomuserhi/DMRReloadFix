@@ -8,7 +8,7 @@ using API;
 using KillIndicatorFix.Patches;
 using Player;
 
-namespace KillIndicatorFix
+namespace DMRReloadFix
 {
     public static class Module
     {

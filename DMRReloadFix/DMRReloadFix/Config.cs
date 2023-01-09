@@ -1,7 +1,7 @@
 ﻿using BepInEx.Configuration;
 using BepInEx;
 
-namespace KillIndicatorFix
+namespace DMRReloadFix
 {
     public static class ConfigManager
     {
