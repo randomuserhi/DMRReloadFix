@@ -3,7 +3,7 @@
 using GameData;
 using UnityEngine.Analytics;
 
-namespace KillIndicatorFix.Patches
+namespace DMRReloadFix.Patches
 {
     [HarmonyPatch(typeof(GameDataInit))]
     internal class GameDataInit_Patches

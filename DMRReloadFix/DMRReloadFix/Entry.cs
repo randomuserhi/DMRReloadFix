@@ -5,7 +5,7 @@ using HarmonyLib;
 using UnityEngine;
 
 using API;
-using KillIndicatorFix.Patches;
+using DMRReloadFix.Patches;
 using Player;
 
 namespace DMRReloadFix
